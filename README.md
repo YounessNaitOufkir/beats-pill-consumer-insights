@@ -1,6 +1,6 @@
 # Beats by Dre Consumer Insights Analysis
 
-![Beats Pill](Beats Pill.png)
+![Beats Pill](Beats_Pill.png)
 
 ## Project Overview
 
