@@ -1,5 +1,7 @@
 # Beats by Dre Consumer Insights Analysis
 
+![Beats Pill](Beats Pill.png)
+
 ## Project Overview
 
 This project leverages data analytics and AI to uncover actionable insights from customer reviews of the Beats Pill Bluetooth speaker. The goal is to understand customer perceptions, identify key product strengths and weaknesses, and develop strategic recommendations for product improvement and targeted marketing.
