@@ -27,3 +27,15 @@ This project leverages data analytics and AI to uncover actionable insights from
 * **Develop a Dedicated iOS App:**  Create a feature-rich app with EQ controls, firmware updates, and other customization options.
 * **Refine Sound Profile:**  Explore options for a more balanced sound profile or provide user-adjustable EQ settings.
 * **Targeted Marketing:**  Tailor marketing messages to specific customer segments, highlighting the Pill's strengths to the right audience.
+
+## Technologies & Tools Used
+
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-%23017193.svg?style=flat&logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)](https://plotly.com/python/)
+[![TextBlob](https://img.shields.io/badge/TextBlob-000000?style=flat&logo=TextBlob&logoColor=white)](https://textblob.readthedocs.io/en/dev/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-blue?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://developers.generativeai.google/)
+[![Oxylabs](https://img.shields.io/badge/Oxylabs-FF69B4?style=flat&logo=Oxylabs&logoColor=white)](https://oxylabs.io/)
